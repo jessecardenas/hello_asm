@@ -1,3 +1,4 @@
+# Hello world. GAS format
 .text	# code section
 	.global _start # declares entry point to the ELF linker
 _start:
